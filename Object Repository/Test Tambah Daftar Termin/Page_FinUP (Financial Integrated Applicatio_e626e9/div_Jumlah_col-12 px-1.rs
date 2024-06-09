@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Jumlah_col-12 px-1</name>
+   <tag></tag>
+   <elementGuidId>2404b923-2968-4c5a-b884-ab4ae84d9a69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='p-tabpanel-4']/jhi-payablegw-termin-list/jhi-payablegw-formtermin/form/p-dialog/div/div/div[2]/div/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f6c6636b-56b1-4cfb-9f63-a2e9f2a2d5fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-12 px-1</value>
+      <webElementGuid>781e3db3-7a48-4c96-bcdd-553f47d8c376</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-4&quot;)/jhi-payablegw-termin-list[1]/jhi-payablegw-formtermin[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-valid ng-dirty ng-touched&quot;]/p-dialog[@class=&quot;p-element ng-tns-c110-44 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c110-44 p-dialog-mask p-component-overlay p-component-overlay-enter p-dialog-mask-scrollblocker ng-star-inserted&quot;]/div[@class=&quot;p-element ng-trigger ng-trigger-animation ng-tns-c110-44 p-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c110-44 p-dialog-content&quot;]/div[@class=&quot;grid -mx-1 ng-star-inserted&quot;]/div[@class=&quot;col-12 px-1&quot;]</value>
+      <webElementGuid>1dec05df-1fd0-4007-915e-20ab599b6c66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-4']/jhi-payablegw-termin-list/jhi-payablegw-formtermin/form/p-dialog/div/div/div[2]/div/div[4]</value>
+      <webElementGuid>9049c5ad-1814-4951-acbd-93cbacc4ad8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah'])[1]/following::div[2]</value>
+      <webElementGuid>2228ceee-bd2d-4012-a072-2902cc9789c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='%'])[3]/following::div[2]</value>
+      <webElementGuid>d46fd081-62fa-49fb-b1cb-faff7a9913ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keterangan'])[3]/preceding::div[4]</value>
+      <webElementGuid>87a17c5e-67da-4008-bb9f-92a107a4cf97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan dan Keluar'])[1]/preceding::div[7]</value>
+      <webElementGuid>0bfacecb-9e84-4a45-8ac4-b13142d1d0be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[4]</value>
+      <webElementGuid>2ba8ac3e-6e5a-41b3-bc47-77dba8b050d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

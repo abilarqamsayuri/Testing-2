@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pilih Jenis Kontrak_p-dropdown-trigger _9f8dec</name>
+   <tag></tag>
+   <elementGuidId>33d51651-f2f0-414d-8635-d5785f6daf92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-dropdown-trigger.ng-tns-c70-47</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pr_id_49']/div/div/div/p-dropdown/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>71d7b3e7-7fb3-4425-84b7-5cc767a13efb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>32f2826d-0546-4d12-acbe-719308762d8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>dropdown trigger</value>
+      <webElementGuid>8a739eef-2c85-4c2e-96fd-8058935b63c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>listbox</value>
+      <webElementGuid>976c06e6-5aee-4710-82f5-801484853c99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-trigger ng-tns-c70-47</value>
+      <webElementGuid>da58afb3-6c2e-4212-a5e3-88809d3be527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_49&quot;)/div[@class=&quot;p-datatable-header ng-star-inserted&quot;]/div[@class=&quot;flex flex-column md:flex-row md:align-items-center justify-content-between ng-star-inserted&quot;]/div[@class=&quot;flex align-items-center&quot;]/p-dropdown[@class=&quot;p-element p-inputwrapper p-dropdown-custom-sm ml-2 ng-tns-c70-47 ng-untouched ng-valid ng-star-inserted ng-dirty&quot;]/div[@class=&quot;ng-tns-c70-47 p-dropdown p-component&quot;]/div[@class=&quot;p-dropdown-trigger ng-tns-c70-47&quot;]</value>
+      <webElementGuid>e9d71604-8ae4-4f20-b32f-14775914d976</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pr_id_49']/div/div/div/p-dropdown/div/div[2]</value>
+      <webElementGuid>87b0ccc8-2ee5-4c26-bfdb-ea49fafcff18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Jenis Kontrak'])[1]/following::div[1]</value>
+      <webElementGuid>97bbcbef-5693-4168-a3b9-4d386d9cf7d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Kontrak:'])[1]/following::div[3]</value>
+      <webElementGuid>963979a7-15ab-413e-8c9f-bf4c61e14d6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[2]/preceding::div[2]</value>
+      <webElementGuid>010191db-efd8-4c1a-9edb-ab6dacd0844b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOMOR'])[1]/preceding::div[2]</value>
+      <webElementGuid>83d12c4c-26fa-4bc4-8fba-3046cee70e79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-table/div/div/div/div/p-dropdown/div/div[2]</value>
+      <webElementGuid>db087ecc-e9ae-46db-9c1f-d8e56bb47f3c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
